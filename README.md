@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuppalaSravanKumar
 - 👀 I’m interested to create some intresting software dirven solutions
 - 🌱 I’m currently working as a senior software engineer
-- 💞️ I’m looking to collaborate on the product that brings some innovative solutions for realworld problems
+- 💞️ I’m looking to collaborate on the product that brings some innovative solutions for the real world problems
 - 📫 How to reach me sravankumar7956@gmail.com
 
 <!---
